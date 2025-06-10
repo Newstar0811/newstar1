@@ -1,1 +1,11 @@
-Add .gitignore
+__pycache__/
+*.spec
+dist/
+build/
+*.exe
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.venv
